@@ -13,7 +13,7 @@ public class Practica_6 {
         tipo=leer.next();
         System.out.println("Tamaño de uva (1 o 2");
         tamaño=leer.next();
-        System.out.println("Cantidad de KOKIUHUI");
+        System.out.println("Cantidad de czsfscscsa  ");
         kilos=leer.nextFloat();
         if (true) {
             if (true) {
